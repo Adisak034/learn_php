@@ -33,7 +33,7 @@
     <li><a href="W06_01_LoopProduct.php">Show Product</a></li>
     <li><a href="W07_01_connectDB.php">Connect Database</a></li>
     <li><a href="W07_02_fetchData.php">fetch data</a></li>
-    <li><a href="">Show Product (Form Database)</a></li>
+    <li><a href="W08_01_ProductFromDB.php">Show Product (Form Database)</a></li>
 
 
   </ul>
